@@ -2,4 +2,5 @@
 print("Git is awesome!")
 
 # Prints out users input
-print(input('Enter something:'))
+users_input = input('Enter something:')
+print(users_input)
